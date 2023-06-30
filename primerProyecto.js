@@ -45,7 +45,7 @@ do{
         alert("el resultado de "+numero1+operacion+numero2+" es: "+resultado)
     }
 
-    askAgain= prompt("quiere volver a utilizar ✨LA CALCULADORA MAGICA✨? ").toLowerCase()
+    askAgain= prompt("quiere volver a utilizar ✨LA CALCULADORA MAGICA✨? (si - no) ").toLowerCase()
 
     if (askAgain =="no"){
         alert("oh.. okay, espero que nos visites pronto 🥺")
