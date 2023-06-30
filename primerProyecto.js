@@ -42,7 +42,7 @@ do{
     if (estado == 1){
         alert("no se puede hacer esa operacion. lo sentimos!🥲")
     }else{
-        alert("el resultado de "+numero1+operacion+numero2+"es: "+resultado)
+        alert("el resultado de "+numero1+operacion+numero2+" es: "+resultado)
     }
 
     askAgain= prompt("quiere volver a utilizar ✨LA CALCULADORA MAGICA✨? ").toLowerCase()
